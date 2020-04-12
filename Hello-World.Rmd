@@ -1,0 +1,18 @@
+---
+title: "HelloWorld"
+author: "Arnold"
+date: "4/12/2020"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a Markdown file
+
+This is an R Markdown document. This is my **first** Hello World R Marckdown file
+
+Please help me review the same, i will be happy to return you the favour:
+
+**"HELLO WORLD. Please help review my code"**
